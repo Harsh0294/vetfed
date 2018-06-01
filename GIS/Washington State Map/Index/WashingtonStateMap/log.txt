@@ -1,1 +1,1 @@
-Indexing C:\Users\SameerMalla\Documents\GitHub\vetfed\GIS\Washington State Map\WashingtonStateMap.aprx
+Indexing C:\Users\SameerMalla\Documents\Github\vetfed\GIS\California State Map\CaliforniaStateMap.aprx
