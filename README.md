@@ -1,3 +1,5 @@
+Full instructions are in the Planning Documents->Instructions folder. Please follow them --> they are very comprehensive.  
+
 Shape Files and Tables for GIS Program (Veteran Data in Every State):  
 https://www.census.gov/geo/maps-data/data/tiger-data.html  
   
